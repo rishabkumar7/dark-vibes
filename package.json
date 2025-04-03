@@ -1,0 +1,37 @@
+{
+  "name": "dark-vibes-theme",
+  "displayName": "Dark Vibes Theme",
+  "description": "A dark theme with vibrant syntax highlighting",
+  "version": "0.1.0",
+  "publisher": "rishabkumar7",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/rishabkumar7/dark-vibes.git"
+	},
+	"bugs": {
+		"url": "https://github.com/rishabkumar7/dark-vibes.git/issues"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"dracula",
+		"dark",
+		"theme",
+		"color-theme"
+  ],
+  "icon": "dark-vibes-logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Vibes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-vibes-theme.json"
+      }
+    ]
+  }
+}
