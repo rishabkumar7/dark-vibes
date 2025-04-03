@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dark Vibes Logo](dark-vibes-logo.svg)
+![Dark Vibes Logo](dark-vibes-logo.png)
 
 A vibrant dark theme with carefully selected syntax highlighting that's easy on the eyes for long coding sessions.
 
