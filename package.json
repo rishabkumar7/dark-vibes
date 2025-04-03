@@ -2,8 +2,8 @@
   "name": "dark-vibes-theme",
   "displayName": "Dark Vibes Theme",
   "description": "A dark theme with vibrant syntax highlighting",
-  "version": "0.1.0",
-  "publisher": "rishabkumar7",
+  "version": "0.1.1",
+  "publisher": "rishabkumar",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
@@ -19,7 +19,7 @@
     "Themes"
   ],
   "keywords": [
-		"dracula",
+		"dark-vibes",
 		"dark",
 		"theme",
 		"color-theme"
