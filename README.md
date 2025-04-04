@@ -7,8 +7,8 @@
 A vibrant dark theme with carefully selected syntax highlighting that's easy on the eyes for long coding sessions.
 
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=YourPublisherName.dark-vibes-theme)
-[![Installs](https://img.shields.io/badge/installs-0-brightgreen.svg)](https://marketplace.visualstudio.com/items?itemName=YourPublisherName.dark-vibes-theme)
-[![Rating](https://img.shields.io/badge/rating-No%20reviews%20yet-yellow.svg)](https://marketplace.visualstudio.com/items?itemName=YourPublisherName.dark-vibes-theme)
+[![Installs](https://img.shields.io/badge/installs-15-brightgreen.svg)](https://marketplace.visualstudio.com/items?itemName=RishabKumar.dark-vibes-theme)
+[![Rating](https://img.shields.io/badge/rating-No%20reviews%20yet-yellow.svg)](https://marketplace.visualstudio.com/items?itemName=RishabKumar.dark-vibes-theme)
 
 </div>
 
@@ -47,14 +47,20 @@ Dark Vibes provides enhanced syntax highlighting for a wide range of languages i
 
 ## Screenshots
 
-### JavaScript/React
-![JavaScript/React Screenshot](https://via.placeholder.com/800x450.png?text=JavaScript+Screenshot)
-
 ### Python
-![Python Screenshot](https://via.placeholder.com/800x450.png?text=Python+Screenshot)
+![Python Screenshot](./images/dark-vibes-python.jpeg)
+
+### Bash
+![Bash Screenshot](./images/dark-vibes-sh.jpeg)
+
+### JavaScript/React
+![JavaScript/React Screenshot](./images/dark-vibes-javascript.jpeg)
 
 ### HTML/CSS
-![HTML/CSS Screenshot](https://via.placeholder.com/800x450.png?text=HTML+CSS+Screenshot)
+![HTML/CSS Screenshot](./images/dark-vibes-html.jpeg)
+
+### C++
+![C++ Screenshot](./images/dark-vibes-cpp.jpeg)
 
 ## Color Palette
 
