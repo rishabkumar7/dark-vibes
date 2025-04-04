@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dark Vibes Logo](dark-vibes-logo.png)
+![Dark Vibes Logo](https://storage.googleapis.com/rishabincloud/dark-vibes/dark-vibes-logo.png)
 
 A vibrant dark theme with carefully selected syntax highlighting that's easy on the eyes for long coding sessions.
 
@@ -48,19 +48,19 @@ Dark Vibes provides enhanced syntax highlighting for a wide range of languages i
 ## Screenshots
 
 ### Python
-![Python Screenshot](./images/dark-vibes-python.jpeg)
+![Python Screenshot](https://storage.googleapis.com/rishabincloud/dark-vibes/dark-vibes-python.jpeg)
 
 ### Bash
-![Bash Screenshot](./images/dark-vibes-sh.jpeg)
+![Bash Screenshot](https://storage.googleapis.com/rishabincloud/dark-vibes/dark-vibes-sh.jpeg)
 
 ### JavaScript/React
-![JavaScript/React Screenshot](./images/dark-vibes-javascript.jpeg)
+![JavaScript/React Screenshot](https://storage.googleapis.com/rishabincloud/dark-vibes/dark-vibes-javascript.jpeg)
 
 ### HTML/CSS
-![HTML/CSS Screenshot](./images/dark-vibes-html.jpeg)
+![HTML/CSS Screenshot](https://storage.googleapis.com/rishabincloud/dark-vibes/dark-vibes-html.jpeg)
 
 ### C++
-![C++ Screenshot](./images/dark-vibes-cpp.jpeg)
+![C++ Screenshot](https://storage.googleapis.com/rishabincloud/dark-vibes/dark-vibes-cpp.jpeg)
 
 ## Color Palette
 
