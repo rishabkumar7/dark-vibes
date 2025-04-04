@@ -2,7 +2,7 @@
   "name": "dark-vibes-theme",
   "displayName": "Dark Vibes Theme",
   "description": "A dark theme with vibrant syntax highlighting",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "publisher": "rishabkumar",
   "license": "MIT",
   "engines": {
